@@ -209,6 +209,7 @@ ul li {
   top: 750px;
   left: 100px;
   margin-right: 0px;
+  list-style-type: none;
 }
 
 #ul2 {
@@ -216,7 +217,8 @@ ul li {
   position: absolute;
   top: 750px;
   left: 500px;
-  margin-right: 0px
+  margin-right: 0px;
+  list-style-type: none;
 }
 
 /* Author Section */
